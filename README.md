@@ -4,4 +4,4 @@
 
 - 💡 Age **15** yo.
 
-- 📫 Contact me on Discord: **`D3sTeptu#1326`**.
+- 📫 Contact me on Discord: **`D3sTeptu#4013`**.
