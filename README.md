@@ -2,6 +2,6 @@
 
 - 🌱 I’m currently learning **LUA, C++, JS, HTML**.
 
-- 💡 Age **15** yo.
+- 💡 Age **17** yo.
 
 - 📫 Contact me on Discord: **`D3sTeptu#4013`**.
