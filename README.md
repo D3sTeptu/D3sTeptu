@@ -3,7 +3,7 @@
 ## About Me
 - 🌱 Experienced with **LUA, C++, JS, HTML**.
 
-- 💡 Age **16** yo.
+- 💡 Age **17** yo.
 
 - 🌎 Country: **Romania**.
 
