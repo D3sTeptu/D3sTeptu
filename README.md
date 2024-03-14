@@ -9,7 +9,7 @@
 
 - ⚡ Languages: **English**, **Romanian**.
 
-- ⭐ Qualities: __Intelligent__, __Friendly__, __Leadership__, __Persuasion__, __Negotiative__, __Flexibility__, __Brave__ and more.
+- ⭐ Abilities: __Intelligent__, __Friendly__, __Leadership__, __Persuasion__, __Negotiative__, __Flexibility__, __Brave__ and more.
 
 ## My Studies
 - 📚 Secondary school `Mihu Dragomir`, Braila: `2014 - 2022`.
